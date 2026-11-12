@@ -1,0 +1,103 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///storage/emulated/0/Download/index-1.html
+Subject: My Portfolio
+Date: Thu, 12 Nov 2026 15:53:32 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--kbLMmV5GAos2bSE24QEJV3gIgG4BOgEz90uZqSqc1E----"
+
+
+------MultipartBoundary--kbLMmV5GAos2bSE24QEJV3gIgG4BOgEz90uZqSqc1E----
+Content-Type: text/html
+Content-ID: <frame-19E50CBB336FFB106F09E10956EAFC2A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///storage/emulated/0/Download/index-1.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-6e102459-2a01-4eee-abe9-e4c801235b78@mhtml.blink" />
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<title>My Portfolio</title>
+
+</head>
+<body>
+<header><strong>My Portfolio</strong><nav><a href=3D"file:///storage/emulat=
+ed/0/Download/index-1.html#about">About</a><a href=3D"file:///storage/emula=
+ted/0/Download/index-1.html#skills">Skills</a><a href=3D"file:///storage/em=
+ulated/0/Download/index-1.html#projects">Projects</a><a href=3D"file:///sto=
+rage/emulated/0/Download/index-1.html#contact">Contact</a></nav></header>
+<main>
+<section class=3D"hero"><h1>Hello, I'm Your Name</h1><p>A beginner web deve=
+loper who enjoys creating simple, attractive and responsive websites using =
+HTML and CSS.</p><a class=3D"button" href=3D"file:///storage/emulated/0/Dow=
+nload/index-1.html#contact">Contact Me</a></section>
+<section id=3D"about"><h2>About Me</h2><p>I am a student interested in web =
+development. I am learning to build user-friendly websites and improve my p=
+rogramming skills.</p></section>
+<section id=3D"skills"><h2>My Skills</h2><div class=3D"grid"><div class=3D"=
+item"><h3>HTML5</h3><p>Creating web page structures.</p></div><div class=3D=
+"item"><h3>CSS3</h3><p>Styling pages and layouts.</p></div><div class=3D"it=
+em"><h3>Flexbox</h3><p>Building flexible layouts.</p></div><div class=3D"it=
+em"><h3>CSS Grid</h3><p>Arranging content in grids.</p></div></div></sectio=
+n>
+<section id=3D"projects"><h2>My Projects</h2><div class=3D"grid"><div class=
+=3D"item"><h3>Personal Portfolio</h3><p>A responsive website to introduce m=
+yself and display my skills.</p></div><div class=3D"item"><h3>To-Do List</h=
+3><p>A task-list application concept for organizing daily activities.</p></=
+div></div></section>
+<section id=3D"contact"><h2>Contact Me</h2><p>Email: yourname@example.com</=
+p><p>LinkedIn: My LinkedIn Profile</p><p>GitHub: My GitHub Profile</p></sec=
+tion>
+</main><footer>=C2=A9 2026 Your Name. All rights reserved.</footer>
+</body></html>
+------MultipartBoundary--kbLMmV5GAos2bSE24QEJV3gIgG4BOgEz90uZqSqc1E----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6e102459-2a01-4eee-abe9-e4c801235b78@mhtml.blink
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+body { margin: 0px; font-family: Arial, sans-serif; background: rgb(243, 24=
+6, 251); color: rgb(23, 32, 51); line-height: 1.6; }
+
+header { background: rgb(16, 43, 82); color: white; padding: 18px 8%; displ=
+ay: flex; justify-content: space-between; align-items: center; flex-wrap: w=
+rap; gap: 12px; }
+
+nav { display: flex; gap: 18px; flex-wrap: wrap; }
+
+nav a { color: white; text-decoration: none; }
+
+main { width: min(950px, 90%); margin: 30px auto; }
+
+section { background: white; padding: 28px; margin: 20px 0px; border-radius=
+: 14px; box-shadow: rgba(16, 43, 82, 0.07) 0px 4px 16px; }
+
+.hero { text-align: center; padding: 55px 25px; }
+
+.hero h1 { font-size: 2.5rem; color: rgb(16, 43, 82); }
+
+.button { display: inline-block; background: rgb(23, 105, 210); color: whit=
+e; padding: 10px 18px; border-radius: 8px; text-decoration: none; }
+
+h2 { color: rgb(16, 43, 82); }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px=
+, 1fr)); gap: 14px; }
+
+.item { background: rgb(238, 244, 255); padding: 16px; border-radius: 10px;=
+ }
+
+footer { text-align: center; padding: 20px; color: rgb(102, 112, 133); }
+
+@media (max-width: 600px) {
+  header { justify-content: center; }
+  nav { justify-content: center; }
+  .hero h1 { font-size: 2rem; }
+}
+------MultipartBoundary--kbLMmV5GAos2bSE24QEJV3gIgG4BOgEz90uZqSqc1E------
